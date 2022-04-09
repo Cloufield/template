@@ -1,5 +1,5 @@
-# template
-GWASlab Scripts Library
+# GWASlab Scripts Library
+
 
 This repository is designed as a library of script templates for commonly used tools in complex traits analysis.
 
