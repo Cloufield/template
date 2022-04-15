@@ -12,6 +12,8 @@
 │   │   └── README.md
 │   └── saige
 │       └── README.md
+├── download
+│   └── README.md
 ├── imputation
 │   ├── eagle2
 │   │   └── README.md
@@ -76,8 +78,8 @@
 │   ├── magma
 │   │   └── README.md
 │   ├── metal
-│   │   └── README.md
-│   ├── mr
+│   │   ├── change_metal_header.sh
+│   │   ├── metal_to_munge.sh
 │   │   └── README.md
 │   ├── mr_mega
 │   │   └── README.md
@@ -87,7 +89,12 @@
 │   │   └── README.md
 │   ├── presice2
 │   │   └── README.md
-│   └── prs_cs
+│   ├── prs_cs
+│   │   └── README.md
+│   ├── susie
+│   ├── twosamplemr
+│   │   └── README.md
+│   └── vep
 │       └── README.md
 ├── qc
 │   ├── check_sex.sh
@@ -97,9 +104,10 @@
 │   ├── pca.sh
 │   └── prune.sh
 ├── README.md
+├── resource
+│   └── hapmap3_rsid_chrposhg19_noMHC.snplist.gz
 ├── run.sh
 ├── scripts
-│   ├── change_metal_header.sh
 │   ├── check_disk_usage.sh
 │   ├── r35.sh
 │   ├── r36.sh
@@ -109,4 +117,4 @@
 ├── subrun.sh
 └── tree.txt
 
-46 directories, 63 files
+50 directories, 67 files
